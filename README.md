@@ -1,2 +1,0 @@
-# AI-Sudoku
-Project Sudoku
